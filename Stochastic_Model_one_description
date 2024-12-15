@@ -1,0 +1,7 @@
+The python file contains codes of different sets of stochastic models inspired from Radek Erban's book "Stochastic modelling of Reaction Diffusion processes".
+The simulations are based on 3 types of models namely:
+1. Fixed time simulation: Where at every time step, a random sampling determines the outcome of the reaction; The reaction being ( A→θ) 
+2. Fixed reaction simulation: In this approach, a random sampling determines the outcome as well as the time point when the next reaction takes place;
+ The reaction being (A→θ)
+3. Repeating the simulation regime of the second point to a more complex reaction; A→θ and θ→A
+I have also tried to compare stochastic and deterministic results to contrast the similarities and differences 
